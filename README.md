@@ -1,7 +1,7 @@
 # 505 React Meetup
 This group is for React and React Native developers in New Mexico. We meet once a month to talk about React, build projects, and help each other debug. This is where we post our code and meetup slides so you can follow along.
 
-## :mailbox: Join us on Meetup :mailbox:
+## :email: Join us on Meetup :email:
 Find us at meetup.com/505-React
 Stay up to date on our monthly meetings. The day of the week changes, but plan for 6pm-8pm.
 
