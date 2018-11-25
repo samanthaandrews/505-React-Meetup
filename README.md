@@ -6,9 +6,10 @@ This group is for React and React Native developers in New Mexico. We meet once 
 * Stay up to date on our monthly meetings. The day of the week changes, but plan for 6pm-8pm.
 
 ## :open_file_folder: Start your first React project today! :open_file_folder:
-Use create-react-app and start building immediately. Check out our [presentation slides](../master/meetup-1-build-your-first-react-project.pdf) from our first meetup to build a simple chat app. We will continue to build on this app at future meetups.
+Use create-react-app and start building immediately. Check out our [presentation slides](../master/505-react-slides.pdf) from our first meetup to build a simple chat app. We continue to build on these slides each month. Last updated 11/24/18.
 
-The chat app we started building on 8/29/18 is linked [here](https://github.com/samanthaandrews/505-react-meetup-chat-app)!
+* The chat app we started building on 8/29/18 is linked [here](https://github.com/samanthaandrews/505-react-meetup-chat-app).
+* The trivia app we started building on 11/19/18 is linked [here] (https://github.com/samanthaandrews/505-react-trivia-app).
 
 ## :books: Recommended Resources :books:
 * [You Don't Know JS - free books!](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
@@ -18,4 +19,3 @@ The chat app we started building on 8/29/18 is linked [here](https://github.com/
 ## :boom: Organizers :boom:
 * Elisa Valdez
 * Samantha Andrews
-* Sidney Chen
