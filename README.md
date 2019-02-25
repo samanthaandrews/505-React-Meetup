@@ -19,5 +19,5 @@ This group is for React and React Native developers in New Mexico. We meet once 
 * [ByteConf](https://www.byteconf.com/) Free developer conferences streamed on YouTube and Twitch
 
 ## :boom: Organizers :boom:
-* Elisa Valdez
-* Samantha Andrews
+* [Elisa Valdez](https://www.linkedin.com/in/elisa-valdez-de-ramirez-1284795/)
+* [Samantha Andrews](https://www.linkedin.com/in/samantharaeandrews/)
