@@ -10,7 +10,7 @@ This group is for React and React Native developers in New Mexico. We meet once 
 * Meetup 2, October 2018: Making a React Chat App with Firebase - Var, let, const, ternaries, and Styled Components [slides](https://github.com/samanthaandrews/505-React-Meetup/blob/master/Meetup%202.pdf) [code](https://github.com/samanthaandrews/505-react-meetup-chat-app)
 * Meetup 3, November 2018: React & Redux [slides](https://github.com/samanthaandrews/505-React-Meetup/blob/master/Meetup%203.pdf) [code](https://github.com/samanthaandrews/505-react-trivia-app)
 * Meetup 4, January 2019: React's Context API - by Enrique Delgado [slides](https://github.com/samanthaandrews/505-React-Meetup/blob/master/Meetup%204.pdf) [code](https://github.com/edelgado/react-505-context)
-* Meetup 5, February 2019: Common React Patterns [slides][code]
+* Meetup 5, February 2019: Common React Patterns [slides](https://github.com/samanthaandrews/505-React-Meetup/blob/master/Meetup%205.pdf) [code](https://codepen.io/samandrews/pen/MxKbwL?editors=0010#0)
 
 ## :books: Recommended Resources :books:
 * [You Don't Know JS - free books!](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
