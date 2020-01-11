@@ -1,9 +1,9 @@
 # 505 React Meetup
-This group is for React and React Native developers in New Mexico. We meet once a month to talk about React, build projects, and help each other debug. This is where we post our code and meetup slides so you can follow along.
+This group is for React and React Native developers in New Mexico. We meet several times a year to talk about React, build projects, and help each other debug. This is where we post our code and meetup slides so you can follow along. We post about upcoming meetups on our Slack group :arrow_down:
 
-## :calendar: Join us on Meetup :calendar:
-* Find us at [meetup.com/505-React](https://www.meetup.com/505-React/)
-* Stay up to date on our monthly meetings. The day of the week changes, but plan for 6pm-8pm.
+## :speech_balloon: Join us on Slack :speech_balloon:
+* Enter your email at [https://react-505.herokuapp.com/](https://react-505.herokuapp.com/) to join 505 React on Slack. Then, add a profile photo (preferably one of your face so that we can say hi if we see you around!) and head over to the #introductions channel to introduce yourself to the group.
+* Keep in touch on Slack to stay up to date on our quarterly meetings, which we will post to #general several weeks in advance. The location & day of the week changes, but plan for 6pm-8pm on weekdays, or anytime during the day on Saturdays & Sundays.
 
 ## :open_file_folder: Presentation Slides :open_file_folder:
 * Meetup 1, September 2018: Your First React App! Intro to React & JSX Components [slides](https://github.com/samanthaandrews/505-React-Meetup/blob/master/Meetup%201.pdf) [code]
